@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+}
+
+body {
+  background-image: url("/catimg.svg");
+  background-repeat: no-repeat;
+  background-size: 300px 700px;
+  background-color: aqua;
+}
